@@ -1,3 +1,9 @@
+pg-logfebe (1.4-0heroku1~precise) precise; urgency=low
+
+  * Import Heroku Snapshot that supports modified Postgres 9.0
+
+ -- Daniel Farina <daniel@heroku.com>  Thu, 24 Apr 2014 14:55:35 -0700
+
 pg-logfebe (1.4-0ubuntu0~trusty) trusty; urgency=low
 
   * Initial upload
